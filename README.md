@@ -15,7 +15,7 @@ Welcome to my GitHub profile! I'm a Full Stack developer and programming instruc
 - ✅ Databases: MongoDB, MySQL, PostgreSQL, Redis
 - ✅ Environments and Tools: Docker, Git and Linux
 - ✅ Technical Concepts: Microservices, Clean Architecture, MVC, OOP, TDD, DDD, SOLID and Design Patterns
-- ✅ Languages: Portuguese fluent and Intermediate English (I can write, read and listen well)
+- ✅ Languages: Native Portuguese and Intermediate English (I can write, read and listen well)
 - ✅ Soft Skills: Accelerated learning and memorization, ability to understand abstract concepts, proactivity, insatiable desire to always learn new things, logical reasoning, knowing how to deal with and respect different opinions and worldviews, professional and personal ethics, communication (in development), ability to make decisions good decisions under pressure
 
 
